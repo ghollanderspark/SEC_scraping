@@ -16,6 +16,3 @@ Run parse_bulk_edgar on this txt file. This will yield you "form_to_name_index.c
 run scrape_13F.py on the 13Fs csv, run scrape_NPORT.py on the NPORTs. This is going to take a long time. We have to throttle our requests to the SEC so we dont get cut off by the bartender so to speak. Definitely going to take several hours to scrape all 13Fs and NPORTs for a given quarter.
 
 In any case, you should have ALL positions for WOLF for a given quarter! Charting comes next. I would suggest naming these files manually to something helpful, most likely containing the effective filing date e.g. "sep_2024" or something like that. Repeat this process for however many quarters of data you want.
-
-TO DO:
-
