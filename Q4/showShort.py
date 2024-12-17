@@ -1,7 +1,7 @@
 import pandas as pd
 
 # File path (replace with your file path)
-file_path = "NPORT_filtered_positions.csv"
+file_path = "NPORT_filtered_positions_Q4.csv"
 
 # Load the data into a pandas DataFrame
 data = pd.read_csv(file_path)
@@ -19,7 +19,7 @@ short_positions['assetCat'] = short_positions['assetCat'].fillna('Unknown')
 # Display short positions in the terminal
 if not short_positions.empty:
     print("Short Positions Found:\n")
-    print(short_positions[['company_name', 'balance', 'valUSD']])
+    print(short_positions[['company_name', 'balance', 'valUSD', 'assetCat']])
 
        # Calculate and display the total balance
     total_balance = short_positions['balance'].sum()

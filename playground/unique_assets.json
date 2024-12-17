@@ -1,0 +1,4776 @@
+[
+    {
+        "unique_identifier": "AB BOND FUND, INC._EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "Y",
+        "balance": 20389.0,
+        "estSharesLoaned": 19049.0
+    },
+    {
+        "unique_identifier": "ADVANCED SERIES TRUST_EC_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "Y",
+        "balance": 3791.0,
+        "estSharesLoaned": 3600.0
+    },
+    {
+        "unique_identifier": "ADVANCED SERIES TRUST_EC_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "Y",
+        "balance": 14689.0,
+        "estSharesLoaned": 4400.0
+    },
+    {
+        "unique_identifier": "ADVANCED SERIES TRUST_EC_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "Y",
+        "balance": 24314.0,
+        "estSharesLoaned": 23000.0
+    },
+    {
+        "unique_identifier": "ADVENT CONVERTIBLE & INCOME FUND_DBT_Long",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "N",
+        "balance": 1433000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ADVENT CONVERTIBLE & INCOME FUND_DBT_Long",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "N",
+        "balance": 1027000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AGF Investments Trust_EC_Short",
+        "filing_date": "2024-08-23",
+        "isLoanByFund": "N",
+        "balance": -39015.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AIM GROWTH SERIES (INVESCO GROWTH SERIES)_DBT_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": 4000000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ALGER FUNDS II_EC_Short",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "N",
+        "balance": -13460.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ALLIANZ VARIABLE INSURANCE PRODUCTS TRUST_DBT_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 60000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ALLIANZ VARIABLE INSURANCE PRODUCTS TRUST_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 23902.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ALLIANZ VARIABLE INSURANCE PRODUCTS TRUST_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 4106.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ALLIANZ VARIABLE INSURANCE PRODUCTS TRUST_DBT_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 336000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ALLIANZ VARIABLE INSURANCE PRODUCTS TRUST_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 1807.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ALPS ETF Trust_EC_Long",
+        "filing_date": "2024-07-30",
+        "isLoanByFund": "Y",
+        "balance": 284081.0,
+        "estSharesLoaned": 245287.0
+    },
+    {
+        "unique_identifier": "AMERICAN CENTURY ETF TRUST_EC_Long",
+        "filing_date": "2024-07-23",
+        "isLoanByFund": "Y",
+        "balance": 83.0,
+        "estSharesLoaned": 62.0
+    },
+    {
+        "unique_identifier": "AMERICAN FUNDS FUNDAMENTAL INVESTORS_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 4493283.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AMERICAN FUNDS INSURANCE SERIES_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 12732.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AMERICAN FUNDS INSURANCE SERIES_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 468848.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AMERICAN FUNDS INSURANCE SERIES_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 2041003.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AMERICAN FUNDS INSURANCE SERIES_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 120200.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AMG Funds I_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "Y",
+        "balance": 3891.0,
+        "estSharesLoaned": 3645.0
+    },
+    {
+        "unique_identifier": "AQR Funds_EC_Short",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": -180320.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AQR Funds_EC_Short",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": -19989.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AQR Funds_EC_Short",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": -15843.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AQR Funds_DBT_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 2614000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AQR Funds_EC_Short",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": -43657.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AQR Funds_EC_Short",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": -220211.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AQR Funds_EC_Short",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": -68279.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ARTISAN PARTNERS FUNDS INC_EC_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": 1868704.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AUGUSTAR VARIABLE INSURANCE PRODUCTS FUND INC_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 772.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AUGUSTAR VARIABLE INSURANCE PRODUCTS FUND INC_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 24644.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Adviser Managed Trust_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 738.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AdvisorShares Trust_EC_Short",
+        "filing_date": "2024-08-20",
+        "isLoanByFund": "N",
+        "balance": -30000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Advisors' Inner Circle Fund III_EC_Long",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "N",
+        "balance": 467.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "BANCROFT FUND LTD_DBT_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": 3125000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "BLACKROCK FUNDS_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 2520.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "BLACKROCK FUNDS_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "Y",
+        "balance": 8227.0,
+        "estSharesLoaned": 8227.0
+    },
+    {
+        "unique_identifier": "BLACKROCK FUNDS_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 11917.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "BLACKROCK FUNDS_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 22234.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "BNY MELLON INVESTMENT PORTFOLIOS_EC_Long",
+        "filing_date": "2024-08-21",
+        "isLoanByFund": "Y",
+        "balance": 520.0,
+        "estSharesLoaned": 524.0
+    },
+    {
+        "unique_identifier": "BNY MELLON MIDCAP INDEX FUND, INC._EC_Long",
+        "filing_date": "2024-09-19",
+        "isLoanByFund": "N",
+        "balance": 71895.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "BNY Mellon ETF Trust_EC_Long",
+        "filing_date": "2024-09-23",
+        "isLoanByFund": "Y",
+        "balance": 7495.0,
+        "estSharesLoaned": 7329.0
+    },
+    {
+        "unique_identifier": "BlackRock ETF Trust_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 34.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Blackstone Alternative Investment Funds_EC_Long",
+        "filing_date": "2024-08-21",
+        "isLoanByFund": "N",
+        "balance": 400.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Bridge Builder Trust_EC_Long",
+        "filing_date": "2024-08-23",
+        "isLoanByFund": "N",
+        "balance": 3590.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Bridge Builder Trust_EC_Long",
+        "filing_date": "2024-08-23",
+        "isLoanByFund": "N",
+        "balance": 5931.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Bridge Builder Trust_EC_Long",
+        "filing_date": "2024-08-23",
+        "isLoanByFund": "N",
+        "balance": 7166.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Brighthouse Funds Trust II_EC_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "Y",
+        "balance": 46094.0,
+        "estSharesLoaned": 47044.0
+    },
+    {
+        "unique_identifier": "Brinker Capital Destinations Trust_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "N",
+        "balance": 1019.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS CONVERTIBLE & HIGH INCOME FUND_DBT_Long",
+        "filing_date": "2024-07-01",
+        "isLoanByFund": "N",
+        "balance": 9500000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS CONVERTIBLE & HIGH INCOME FUND_DBT_Long",
+        "filing_date": "2024-07-01",
+        "isLoanByFund": "N",
+        "balance": 5711000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS CONVERTIBLE & HIGH INCOME FUND_DBT_Long",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "N",
+        "balance": 9500000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS CONVERTIBLE & HIGH INCOME FUND_DBT_Long",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "N",
+        "balance": 5711000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS CONVERTIBLE OPPORTUNITIES & INCOME FUND_DBT_Long",
+        "filing_date": "2024-07-01",
+        "isLoanByFund": "N",
+        "balance": 8750000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS CONVERTIBLE OPPORTUNITIES & INCOME FUND_DBT_Long",
+        "filing_date": "2024-07-01",
+        "isLoanByFund": "N",
+        "balance": 5338000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS CONVERTIBLE OPPORTUNITIES & INCOME FUND_DBT_Long",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "N",
+        "balance": 8750000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS CONVERTIBLE OPPORTUNITIES & INCOME FUND_DBT_Long",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "N",
+        "balance": 5338000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS INVESTMENT TRUST/IL_DBT_Long",
+        "filing_date": "2024-07-01",
+        "isLoanByFund": "N",
+        "balance": 10250000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS INVESTMENT TRUST/IL_DBT_Long",
+        "filing_date": "2024-07-01",
+        "isLoanByFund": "N",
+        "balance": 10000000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS INVESTMENT TRUST/IL_DBT_Long",
+        "filing_date": "2024-07-01",
+        "isLoanByFund": "N",
+        "balance": 20000000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS INVESTMENT TRUST/IL_EC_Short",
+        "filing_date": "2024-07-01",
+        "isLoanByFund": "N",
+        "balance": -188520.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS INVESTMENT TRUST/IL_DBT_Long",
+        "filing_date": "2024-07-01",
+        "isLoanByFund": "N",
+        "balance": 15000000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS INVESTMENT TRUST/IL_DBT_Long",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "N",
+        "balance": 10000000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS INVESTMENT TRUST/IL_DBT_Long",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "N",
+        "balance": 20000000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS INVESTMENT TRUST/IL_EC_Short",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "N",
+        "balance": -188520.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS INVESTMENT TRUST/IL_DBT_Long",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "N",
+        "balance": 22473000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS INVESTMENT TRUST/IL_DBT_Long",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "N",
+        "balance": 27000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS INVESTMENT TRUST/IL_DBT_Long",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "N",
+        "balance": 10250000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS STRATEGIC TOTAL RETURN FUND_DBT_Long",
+        "filing_date": "2024-07-01",
+        "isLoanByFund": "N",
+        "balance": 5670000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALAMOS STRATEGIC TOTAL RETURN FUND_DBT_Long",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "N",
+        "balance": 5670000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALVERT IMPACT FUND INC_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 30787.0,
+        "estSharesLoaned": 31108.0
+    },
+    {
+        "unique_identifier": "CAPITAL WORLD GROWTH & INCOME FUND_EC_Long",
+        "filing_date": "2024-07-08",
+        "isLoanByFund": "N",
+        "balance": 767505.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CARILLON SERIES TRUST_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 1861.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CENTRAL SECURITIES CORP_EC_Long",
+        "filing_date": "2024-08-20",
+        "isLoanByFund": "N",
+        "balance": 170000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "COLLEGE RETIREMENT EQUITIES FUND_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 62345.0,
+        "estSharesLoaned": 61721.0
+    },
+    {
+        "unique_identifier": "COLLEGE RETIREMENT EQUITIES FUND_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 90261.0,
+        "estSharesLoaned": 89357.0
+    },
+    {
+        "unique_identifier": "COLUMBIA FUNDS SERIES TRUST_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 12083000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "COLUMBIA FUNDS SERIES TRUST_EC_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 123964.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "COLUMBIA FUNDS SERIES TRUST I_EC_Short",
+        "filing_date": "2024-09-24",
+        "isLoanByFund": "N",
+        "balance": -7529.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Calamos Dynamic Convertible & Income Fund_DBT_Long",
+        "filing_date": "2024-07-01",
+        "isLoanByFund": "N",
+        "balance": 7750000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Calamos Dynamic Convertible & Income Fund_DBT_Long",
+        "filing_date": "2024-07-01",
+        "isLoanByFund": "N",
+        "balance": 4469000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Calamos Dynamic Convertible & Income Fund_DBT_Long",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "N",
+        "balance": 7750000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Calamos Dynamic Convertible & Income Fund_DBT_Long",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "N",
+        "balance": 4469000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Calvert Variable Trust, Inc._EC_Long",
+        "filing_date": "2024-08-20",
+        "isLoanByFund": "Y",
+        "balance": 26769.0,
+        "estSharesLoaned": 27048.0
+    },
+    {
+        "unique_identifier": "DBX ETF TRUST_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "N",
+        "balance": 467.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "DELAWARE GROUP EQUITY FUNDS V_DBT_Long",
+        "filing_date": "2024-07-25",
+        "isLoanByFund": "N",
+        "balance": 1717000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "DELAWARE VIP TRUST_DBT_Long",
+        "filing_date": "2024-08-21",
+        "isLoanByFund": "N",
+        "balance": 76000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "DFA INVESTMENT DIMENSIONS GROUP INC_EC_Long",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "Y",
+        "balance": 21437.0,
+        "estSharesLoaned": 21194.0
+    },
+    {
+        "unique_identifier": "DFA INVESTMENT DIMENSIONS GROUP INC_EC_Long",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "Y",
+        "balance": 73516.0,
+        "estSharesLoaned": 73074.0
+    },
+    {
+        "unique_identifier": "DFA INVESTMENT DIMENSIONS GROUP INC_EC_Long",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "Y",
+        "balance": 35749.0,
+        "estSharesLoaned": 35477.0
+    },
+    {
+        "unique_identifier": "DFA INVESTMENT DIMENSIONS GROUP INC_EC_Long",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "Y",
+        "balance": 11099.0,
+        "estSharesLoaned": 11001.0
+    },
+    {
+        "unique_identifier": "Dimensional ETF Trust_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "Y",
+        "balance": 82259.0,
+        "estSharesLoaned": 77624.0
+    },
+    {
+        "unique_identifier": "Dimensional ETF Trust_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "Y",
+        "balance": 20472.0,
+        "estSharesLoaned": 19273.0
+    },
+    {
+        "unique_identifier": "Dimensional ETF Trust_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "Y",
+        "balance": 9867.0,
+        "estSharesLoaned": 9311.0
+    },
+    {
+        "unique_identifier": "Dimensional ETF Trust_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "Y",
+        "balance": 33892.0,
+        "estSharesLoaned": 31982.0
+    },
+    {
+        "unique_identifier": "Direxion Shares ETF Trust_EC_Long",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "Y",
+        "balance": 3350.0,
+        "estSharesLoaned": 1048.0
+    },
+    {
+        "unique_identifier": "Direxion Shares ETF Trust_EC_Long",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "Y",
+        "balance": 1108573.0,
+        "estSharesLoaned": 18302.0
+    },
+    {
+        "unique_identifier": "ELLSWORTH GROWTH & INCOME FUND LTD_DBT_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": 4275000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EMPOWER FUNDS, INC._DBT_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 1206000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EMPOWER FUNDS, INC._EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 63470.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_DBT_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 324000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_DBT_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 130000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_DBT_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 100000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 12671.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "Y",
+        "balance": 36615.0,
+        "estSharesLoaned": 3470.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "Y",
+        "balance": 76030.0,
+        "estSharesLoaned": 26309.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 24367.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 113906.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 12511.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 4765.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 11562.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 25752.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ETF Series Solutions_EC_Long",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "N",
+        "balance": 4817.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY ADVISOR SERIES I_DBT_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 19874000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY ADVISOR SERIES II_DBT_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 51247000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY ADVISOR SERIES VII_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "Y",
+        "balance": 54700.0,
+        "estSharesLoaned": 54600.0
+    },
+    {
+        "unique_identifier": "FIDELITY CONCORD STREET TRUST_EC_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "Y",
+        "balance": 710814.0,
+        "estSharesLoaned": 707016.0
+    },
+    {
+        "unique_identifier": "FIDELITY CONCORD STREET TRUST_EC_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "Y",
+        "balance": 227513.0,
+        "estSharesLoaned": 219400.0
+    },
+    {
+        "unique_identifier": "FIDELITY CONCORD STREET TRUST_EC_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "Y",
+        "balance": 171922.0,
+        "estSharesLoaned": 167000.0
+    },
+    {
+        "unique_identifier": "FIDELITY CONCORD STREET TRUST_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "Y",
+        "balance": 35669.0,
+        "estSharesLoaned": 35600.0
+    },
+    {
+        "unique_identifier": "FIDELITY CONCORD STREET TRUST_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "Y",
+        "balance": 52926.0,
+        "estSharesLoaned": 52900.0
+    },
+    {
+        "unique_identifier": "FIDELITY COVINGTON TRUST_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 99000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY COVINGTON TRUST_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 254176.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY FINANCIAL TRUST_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 23810000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY FINANCIAL TRUST_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 7555000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY FINANCIAL TRUST_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 2078000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY INCOME FUND /MA/_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 1003000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY INCOME FUND /MA/_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 8999000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY MT VERNON STREET TRUST_EC_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "Y",
+        "balance": 361002.0,
+        "estSharesLoaned": 361000.0
+    },
+    {
+        "unique_identifier": "FIDELITY MT VERNON STREET TRUST_EC_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "Y",
+        "balance": 133544.0,
+        "estSharesLoaned": 132400.0
+    },
+    {
+        "unique_identifier": "FIDELITY MT VERNON STREET TRUST_EC_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "Y",
+        "balance": 68829.0,
+        "estSharesLoaned": 71300.0
+    },
+    {
+        "unique_identifier": "FIDELITY SALEM STREET TRUST_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 27000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SALEM STREET TRUST_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 5079000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SALEM STREET TRUST_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 7345000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SALEM STREET TRUST_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 2281000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SALEM STREET TRUST_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 639000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SALEM STREET TRUST_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 14000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SALEM STREET TRUST_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 14521.0,
+        "estSharesLoaned": 13799.0
+    },
+    {
+        "unique_identifier": "FIDELITY SALEM STREET TRUST_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "Y",
+        "balance": 5031.0,
+        "estSharesLoaned": 3100.0
+    },
+    {
+        "unique_identifier": "FIDELITY SALEM STREET TRUST_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "Y",
+        "balance": 43280.0,
+        "estSharesLoaned": 43200.0
+    },
+    {
+        "unique_identifier": "FIDELITY SALEM STREET TRUST_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "Y",
+        "balance": 267270.0,
+        "estSharesLoaned": 264800.0
+    },
+    {
+        "unique_identifier": "FIDELITY SALEM STREET TRUST_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "Y",
+        "balance": 60062.0,
+        "estSharesLoaned": 60000.0
+    },
+    {
+        "unique_identifier": "FIDELITY SALEM STREET TRUST_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "Y",
+        "balance": 39901.0,
+        "estSharesLoaned": 39800.0
+    },
+    {
+        "unique_identifier": "FIDELITY SCHOOL STREET TRUST_DBT_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 12770000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SELECT PORTFOLIOS_EC_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "Y",
+        "balance": 418400.0,
+        "estSharesLoaned": 418110.0
+    },
+    {
+        "unique_identifier": "FIDELITY SUMMER STREET TRUST_DBT_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 118424000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SUMMER STREET TRUST_DBT_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 10765000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SUMMER STREET TRUST_DBT_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 370000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SUMMER STREET TRUST_DBT_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 6448000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SUMMER STREET TRUST_DBT_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 5485000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SUMMER STREET TRUST_DBT_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 648000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SUMMER STREET TRUST_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 88.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIRST TRUST EXCHANGE-TRADED FUND_EC_Long",
+        "filing_date": "2024-08-21",
+        "isLoanByFund": "N",
+        "balance": 439796.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIRST TRUST EXCHANGE-TRADED FUND II_EC_Long",
+        "filing_date": "2024-08-23",
+        "isLoanByFund": "N",
+        "balance": 6310.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIRST TRUST EXCHANGE-TRADED FUND III_EC_Short",
+        "filing_date": "2024-09-24",
+        "isLoanByFund": "N",
+        "balance": -179769.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIRSTHAND FUNDS_EC_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": 170000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIRSTHAND FUNDS_EC_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": 10000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FLEXSHARES TRUST_EC_Long",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "Y",
+        "balance": 2415.0,
+        "estSharesLoaned": 104.0
+    },
+    {
+        "unique_identifier": "FRANK FUNDS_EC_Long",
+        "filing_date": "2024-08-19",
+        "isLoanByFund": "N",
+        "balance": 20000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Federated Hermes Adviser Series_EC_Short",
+        "filing_date": "2024-08-23",
+        "isLoanByFund": "N",
+        "balance": -56369.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Federated Hermes Index Trust_EC_Long",
+        "filing_date": "2024-09-23",
+        "isLoanByFund": "N",
+        "balance": 7368.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Fidelity Merrimack Street Trust_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 7000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Fidelity Merrimack Street Trust_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 14000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Fidelity Merrimack Street Trust_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 2313000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Fidelity Multi-Strategy Credit Fund_DBT_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 113000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Fidelity Rutland Square Trust II_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 723000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Franklin Investors Securities Trust_DBT_Long",
+        "filing_date": "2024-09-23",
+        "isLoanByFund": "N",
+        "balance": 29900000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Franklin Investors Securities Trust_DBT_Long",
+        "filing_date": "2024-09-23",
+        "isLoanByFund": "N",
+        "balance": 35000000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "GABELLI CONVERTIBLE & INCOME SECURITIES FUND INC_DBT_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": 2100000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "GREEN CENTURY FUNDS_EC_Long",
+        "filing_date": "2024-09-24",
+        "isLoanByFund": "N",
+        "balance": 43189.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "GROWTH FUND OF AMERICA_EC_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "Y",
+        "balance": 8808854.0,
+        "estSharesLoaned": 69671.0
+    },
+    {
+        "unique_identifier": "Global Opportunities Portfolio_DBT_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 1695000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Goldman Sachs ETF Trust_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "N",
+        "balance": 7652.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Goldman Sachs ETF Trust_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "N",
+        "balance": 2975.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Goldman Sachs ETF Trust_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "N",
+        "balance": 755.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "GuideStone Funds_DBT_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 15000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "GuideStone Funds_DBT_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 3037000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "GuideStone Funds_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 737.0,
+        "estSharesLoaned": 737.0
+    },
+    {
+        "unique_identifier": "GuideStone Funds_DE_",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": -11940.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "HARBOR FUNDS_DBT_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 200000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "HARBOR FUNDS_DBT_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 100000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "HC CAPITAL TRUST_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 934.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "INVESCO EXCHANGE-TRADED FUND TRUST_EC_Long",
+        "filing_date": "2024-07-01",
+        "isLoanByFund": "Y",
+        "balance": 120418.0,
+        "estSharesLoaned": 122806.0
+    },
+    {
+        "unique_identifier": "INVESCO EXCHANGE-TRADED FUND TRUST_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 221308.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "INVESCO EXCHANGE-TRADED FUND TRUST_EC_Long",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "Y",
+        "balance": 120298.0,
+        "estSharesLoaned": 112342.0
+    },
+    {
+        "unique_identifier": "Invesco Exchange-Traded Fund Trust II_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "Y",
+        "balance": 40849.0,
+        "estSharesLoaned": 40752.0
+    },
+    {
+        "unique_identifier": "Invesco Exchange-Traded Fund Trust II_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "Y",
+        "balance": 11000.0,
+        "estSharesLoaned": 10601.0
+    },
+    {
+        "unique_identifier": "Invesco Exchange-Traded Fund Trust II_EC_Long",
+        "filing_date": "2024-07-30",
+        "isLoanByFund": "Y",
+        "balance": 13967.0,
+        "estSharesLoaned": 13631.0
+    },
+    {
+        "unique_identifier": "Invesco Exchange-Traded Fund Trust II_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "Y",
+        "balance": 41735.0,
+        "estSharesLoaned": 36277.0
+    },
+    {
+        "unique_identifier": "Investment Managers Series Trust II_EC_Long",
+        "filing_date": "2024-08-20",
+        "isLoanByFund": "N",
+        "balance": 5848.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "J.P. Morgan Exchange-Traded Fund Trust_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 21616.0,
+        "estSharesLoaned": 19994.0
+    },
+    {
+        "unique_identifier": "J.P. Morgan Exchange-Traded Fund Trust_EC_Long",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "Y",
+        "balance": 57428.0,
+        "estSharesLoaned": 47307.0
+    },
+    {
+        "unique_identifier": "JANUS INVESTMENT FUND_EC_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": 575740.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JNL SERIES TRUST_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 163094.0,
+        "estSharesLoaned": 5984.0
+    },
+    {
+        "unique_identifier": "JNL SERIES TRUST_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 7952.0,
+        "estSharesLoaned": 7952.0
+    },
+    {
+        "unique_identifier": "JNL SERIES TRUST_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 2728.0,
+        "estSharesLoaned": 2708.0
+    },
+    {
+        "unique_identifier": "JNL SERIES TRUST_DBT_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 412000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JNL SERIES TRUST_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 186401.0,
+        "estSharesLoaned": 16032.0
+    },
+    {
+        "unique_identifier": "JNL SERIES TRUST_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 13353.0,
+        "estSharesLoaned": 738.0
+    },
+    {
+        "unique_identifier": "JNL SERIES TRUST_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 9812.0,
+        "estSharesLoaned": 9812.0
+    },
+    {
+        "unique_identifier": "JOHN HANCOCK INVESTMENT TRUST_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 29156.0,
+        "estSharesLoaned": 12178.0
+    },
+    {
+        "unique_identifier": "JOHN HANCOCK VARIABLE INSURANCE TRUST_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 55776.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JOHN HANCOCK VARIABLE INSURANCE TRUST_DBT_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 978000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JOHN HANCOCK VARIABLE INSURANCE TRUST_DBT_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 3436000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JOHN HANCOCK VARIABLE INSURANCE TRUST_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 20500.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JOHN HANCOCK VARIABLE INSURANCE TRUST_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 23313.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JOHN HANCOCK VARIABLE INSURANCE TRUST_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 2162.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JPMorgan Trust I_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 275000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JPMorgan Trust I_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 609000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JPMorgan Trust I_DBT_Long",
+        "filing_date": "2024-07-30",
+        "isLoanByFund": "N",
+        "balance": 375000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JPMorgan Trust I_DBT_Long",
+        "filing_date": "2024-07-30",
+        "isLoanByFund": "N",
+        "balance": 2055000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "John Hancock Funds II_DBT_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "N",
+        "balance": 8093000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "John Hancock Funds II_DBT_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "N",
+        "balance": 2313000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LAZARD FUNDS INC_DBT_Long",
+        "filing_date": "2024-08-20",
+        "isLoanByFund": "N",
+        "balance": 161000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LEGG MASON PARTNERS INVESTMENT TRUST_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "N",
+        "balance": 2062274.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LEGG MASON PARTNERS VARIABLE EQUITY TRUST_EC_Long",
+        "filing_date": "2024-08-20",
+        "isLoanByFund": "N",
+        "balance": 65126.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LINCOLN VARIABLE INSURANCE PRODUCTS TRUST_EC_Long",
+        "filing_date": "2024-08-08",
+        "isLoanByFund": "N",
+        "balance": 1568.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LINCOLN VARIABLE INSURANCE PRODUCTS TRUST_EC_Long",
+        "filing_date": "2024-08-08",
+        "isLoanByFund": "N",
+        "balance": 41905.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LINCOLN VARIABLE INSURANCE PRODUCTS TRUST_EC_Long",
+        "filing_date": "2024-08-08",
+        "isLoanByFund": "N",
+        "balance": 38547.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LITMAN GREGORY FUNDS TRUST_DBT_Long",
+        "filing_date": "2024-08-20",
+        "isLoanByFund": "N",
+        "balance": 115000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LITMAN GREGORY FUNDS TRUST_DBT_Long",
+        "filing_date": "2024-08-20",
+        "isLoanByFund": "N",
+        "balance": 60000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LOOMIS SAYLES FUNDS I_DBT_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 955000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LOOMIS SAYLES FUNDS I_DBT_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 65000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LOOMIS SAYLES FUNDS I_DBT_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 1325000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LOOMIS SAYLES FUNDS I_DBT_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 110000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LOOMIS SAYLES FUNDS II_DBT_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 175000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LOOMIS SAYLES FUNDS II_DBT_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 20000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LOOMIS SAYLES FUNDS II_DBT_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 2350000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LOOMIS SAYLES FUNDS II_DBT_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 1215000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "M FUND INC_EC_Long",
+        "filing_date": "2024-08-22",
+        "isLoanByFund": "Y",
+        "balance": 73370.0,
+        "estSharesLoaned": 63651.0
+    },
+    {
+        "unique_identifier": "MASSMUTUAL SELECT FUNDS_DBT_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": 330000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "MASSMUTUAL SELECT FUNDS_DBT_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": 1265000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "MASTER INVESTMENT PORTFOLIO_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "Y",
+        "balance": 80018.0,
+        "estSharesLoaned": 802.0
+    },
+    {
+        "unique_identifier": "MORGAN STANLEY PATHWAY FUNDS_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "N",
+        "balance": 3902.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "MORGAN STANLEY PATHWAY FUNDS_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "N",
+        "balance": 17852.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "MoA Funds Corp_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 70292.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Morningstar Funds Trust_DBT_Long",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "N",
+        "balance": 240000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Morningstar Funds Trust_DBT_Long",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "N",
+        "balance": 15000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "NATIONWIDE MUTUAL FUNDS_EC_Long",
+        "filing_date": "2024-09-17",
+        "isLoanByFund": "Y",
+        "balance": 27672.0,
+        "estSharesLoaned": 17862.0
+    },
+    {
+        "unique_identifier": "NATIONWIDE MUTUAL FUNDS_EC_Long",
+        "filing_date": "2024-09-17",
+        "isLoanByFund": "Y",
+        "balance": 69201.0,
+        "estSharesLoaned": 59045.0
+    },
+    {
+        "unique_identifier": "NATIONWIDE VARIABLE INSURANCE TRUST_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 56126.0,
+        "estSharesLoaned": 57283.0
+    },
+    {
+        "unique_identifier": "NEUBERGER BERMAN EQUITY FUNDS_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "N",
+        "balance": 260773.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "NEW COVENANT FUNDS_EC_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": 248.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "NEW ECONOMY FUND_EC_Long",
+        "filing_date": "2024-07-08",
+        "isLoanByFund": "N",
+        "balance": 2093227.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "NEW PERSPECTIVE FUND_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 2255516.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "NEW WORLD FUND INC_EC_Long",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "Y",
+        "balance": 1887288.0,
+        "estSharesLoaned": 31568.0
+    },
+    {
+        "unique_identifier": "NORTHERN FUNDS_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 96081.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "NORTHERN LIGHTS FUND TRUST II_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "N",
+        "balance": 10307.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "NORTHERN LIGHTS FUND TRUST II_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "N",
+        "balance": 23520.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "NORTHWESTERN MUTUAL SERIES FUND INC_EC_Long",
+        "filing_date": "2024-08-16",
+        "isLoanByFund": "N",
+        "balance": 62525.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Northern Lights Fund Trust IV_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "N",
+        "balance": 12799.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Nushares ETF Trust_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 96109.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Nuveen S&P 500 Dynamic Overwrite Fund_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 2647.0,
+        "estSharesLoaned": 2620.0
+    },
+    {
+        "unique_identifier": "OLD WESTBURY FUNDS INC_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 415773.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PACIFIC SELECT FUND_EC_Long",
+        "filing_date": "2024-08-12",
+        "isLoanByFund": "N",
+        "balance": 3627.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PACIFIC SELECT FUND_EC_Long",
+        "filing_date": "2024-08-12",
+        "isLoanByFund": "N",
+        "balance": 7112.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PENN SERIES FUNDS INC_EC_Long",
+        "filing_date": "2024-08-21",
+        "isLoanByFund": "N",
+        "balance": 9788.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PIMCO Equity Series_EC_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": 443.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PRIMECAP Odyssey Funds_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 701200.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PRIMECAP Odyssey Funds_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 1347400.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PRINCIPAL FUNDS, INC._EC_Long",
+        "filing_date": "2024-09-24",
+        "isLoanByFund": "N",
+        "balance": 3604.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PRINCIPAL FUNDS, INC._EC_Long",
+        "filing_date": "2024-09-24",
+        "isLoanByFund": "N",
+        "balance": 56742.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PRINCIPAL FUNDS, INC._EC_Long",
+        "filing_date": "2024-09-24",
+        "isLoanByFund": "N",
+        "balance": 4977.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PROSHARES TRUST_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "N",
+        "balance": 1050.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PROSHARES TRUST_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "N",
+        "balance": 5013.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PROSHARES TRUST_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "N",
+        "balance": 15796.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PRUDENTIAL INVESTMENT PORTFOLIOS 2_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 490.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PUTNAM CONVERTIBLE SECURITIES FUND_DBT_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 7515000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PUTNAM DIVERSIFIED INCOME TRUST_DBT_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 434000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PUTNAM HIGH YIELD FUND_DBT_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 78000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PUTNAM MASTER INTERMEDIATE INCOME TRUST_DBT_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 82000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PUTNAM PREMIER INCOME TRUST_DBT_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 182000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PUTNAM VARIABLE TRUST_DBT_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 55000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Pacer Funds Trust_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "Y",
+        "balance": 20750.0,
+        "estSharesLoaned": 19173.0
+    },
+    {
+        "unique_identifier": "Pacer Funds Trust_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "Y",
+        "balance": 18591.0,
+        "estSharesLoaned": 17634.0
+    },
+    {
+        "unique_identifier": "Perpetual Americas Funds Trust_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 11658.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ProFunds_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 365.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ProFunds_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 926.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ProFunds_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 621.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ProFunds_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 561.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ProFunds_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 222.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ProFunds_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 4306.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ProFunds_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 227.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ProFunds_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 1315.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ProFunds_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 226.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "RBB FUND, INC._EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "Y",
+        "balance": 32702.0,
+        "estSharesLoaned": 27880.0
+    },
+    {
+        "unique_identifier": "RUSSELL INVESTMENT CO_EC_Short",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "N",
+        "balance": -19704.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "RUSSELL INVESTMENT CO_EC_Short",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "N",
+        "balance": -114861.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "RUSSELL INVESTMENT CO_EC_Short",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "N",
+        "balance": -2428.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "RUSSELL INVESTMENT FUNDS_EC_Short",
+        "filing_date": "2024-08-23",
+        "isLoanByFund": "N",
+        "balance": -21464.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "RUSSELL INVESTMENT FUNDS_EC_Short",
+        "filing_date": "2024-08-23",
+        "isLoanByFund": "N",
+        "balance": -5528.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "RYDEX SERIES FUNDS_EC_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "Y",
+        "balance": 28246.0,
+        "estSharesLoaned": 14271.0
+    },
+    {
+        "unique_identifier": "RYDEX SERIES FUNDS_EC_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": 504.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "RYDEX VARIABLE TRUST_EC_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": 159.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "RYDEX VARIABLE TRUST_EC_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": 7499.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SA FUNDS INVESTMENT TRUST_EC_Long",
+        "filing_date": "2024-08-16",
+        "isLoanByFund": "Y",
+        "balance": 857.0,
+        "estSharesLoaned": 874.0
+    },
+    {
+        "unique_identifier": "SA FUNDS INVESTMENT TRUST_EC_Long",
+        "filing_date": "2024-08-16",
+        "isLoanByFund": "Y",
+        "balance": 9115.0,
+        "estSharesLoaned": 9303.0
+    },
+    {
+        "unique_identifier": "SCHWAB CAPITAL TRUST_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 25251.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SCHWAB CAPITAL TRUST_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 16806.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SCHWAB CAPITAL TRUST_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 56169.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SCHWAB CAPITAL TRUST_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 3638.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SCHWAB INVESTMENTS_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 40813.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SCHWAB STRATEGIC TRUST_EC_Long",
+        "filing_date": "2024-07-24",
+        "isLoanByFund": "N",
+        "balance": 638.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SCHWAB STRATEGIC TRUST_EC_Long",
+        "filing_date": "2024-07-24",
+        "isLoanByFund": "N",
+        "balance": 339729.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SCHWAB STRATEGIC TRUST_EC_Long",
+        "filing_date": "2024-07-24",
+        "isLoanByFund": "N",
+        "balance": 9143.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SCHWAB STRATEGIC TRUST_EC_Long",
+        "filing_date": "2024-07-24",
+        "isLoanByFund": "N",
+        "balance": 97546.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SCHWAB STRATEGIC TRUST_EC_Long",
+        "filing_date": "2024-07-24",
+        "isLoanByFund": "N",
+        "balance": 63150.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SCHWAB STRATEGIC TRUST_EC_Long",
+        "filing_date": "2024-07-24",
+        "isLoanByFund": "N",
+        "balance": 74820.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SCHWAB STRATEGIC TRUST_EC_Long",
+        "filing_date": "2024-07-24",
+        "isLoanByFund": "N",
+        "balance": 108166.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SEASONS SERIES TRUST_DBT_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 384000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SEASONS SERIES TRUST_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 998.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SEASONS SERIES TRUST_DBT_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 109000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SEI Catholic Values Trust_EC_Long",
+        "filing_date": "2024-07-30",
+        "isLoanByFund": "N",
+        "balance": 341.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SEI INSTITUTIONAL INVESTMENTS TRUST_EC_Long",
+        "filing_date": "2024-07-30",
+        "isLoanByFund": "N",
+        "balance": 19923.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SEI INSTITUTIONAL INVESTMENTS TRUST_EC_Long",
+        "filing_date": "2024-07-30",
+        "isLoanByFund": "N",
+        "balance": 5000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SEI INSTITUTIONAL MANAGED TRUST_EC_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": 2930.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SHELTON FUNDS_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "N",
+        "balance": 5129.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SMALLCAP WORLD FUND INC_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 3859375.0,
+        "estSharesLoaned": 1989757.0
+    },
+    {
+        "unique_identifier": "SPDR INDEX SHARES FUNDS_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 362.0,
+        "estSharesLoaned": 324.0
+    },
+    {
+        "unique_identifier": "SPDR S&P MIDCAP 400 ETF TRUST_EC_Long",
+        "filing_date": "2024-08-23",
+        "isLoanByFund": "N",
+        "balance": 1010572.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 1769795.0,
+        "estSharesLoaned": 1607951.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_DBT_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 5410000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_DBT_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 29887000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_DBT_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 9512000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 104180.0,
+        "estSharesLoaned": 95370.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 12.0,
+        "estSharesLoaned": 10.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 474968.0,
+        "estSharesLoaned": 431324.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 18830.0,
+        "estSharesLoaned": 17181.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 248.0,
+        "estSharesLoaned": 223.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 126687.0,
+        "estSharesLoaned": 115182.0
+    },
+    {
+        "unique_identifier": "STATE STREET INSTITUTIONAL INVESTMENT TRUST_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 65.0,
+        "estSharesLoaned": 57.0
+    },
+    {
+        "unique_identifier": "STATE STREET INSTITUTIONAL INVESTMENT TRUST_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 45301.0,
+        "estSharesLoaned": 41464.0
+    },
+    {
+        "unique_identifier": "STATE STREET VARIABLE INSURANCE SERIES FUNDS INC_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "N",
+        "balance": 779.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "STEWARD FUNDS, INC._EC_Short",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": -12800.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "STEWARD FUNDS, INC._EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 5739.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SUNAMERICA SERIES TRUST_EC_Long",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "N",
+        "balance": 21714.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SUNAMERICA SERIES TRUST_EC_Long",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "N",
+        "balance": 2739.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SYNTAX ETF TRUST_EC_Long",
+        "filing_date": "2024-08-21",
+        "isLoanByFund": "N",
+        "balance": 540.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Securian Funds Trust_EC_Long",
+        "filing_date": "2024-08-16",
+        "isLoanByFund": "N",
+        "balance": 10037.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "T. Rowe Price Index Trust, Inc._EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 19826.0,
+        "estSharesLoaned": 19627.0
+    },
+    {
+        "unique_identifier": "T. Rowe Price Index Trust, Inc._EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 5714.0,
+        "estSharesLoaned": 5656.0
+    },
+    {
+        "unique_identifier": "T. Rowe Price International Funds, Inc._DBT_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 981000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "T. Rowe Price International Funds, Inc._DBT_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 19595000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "T. Rowe Price Multi-Strategy Total Return Fund, Inc._DBT_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 33000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "T. Rowe Price Multi-Strategy Total Return Fund, Inc._DBT_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 660000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "T. Rowe Price Science & Technology Fund, Inc._EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 168300.0,
+        "estSharesLoaned": 1240.0
+    },
+    {
+        "unique_identifier": "TETON WESTWOOD FUNDS_DBT_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": 600000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "THRIVENT SERIES FUND INC_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 30409.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "TIAA SEPARATE ACCOUNT VA 1_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 3166.0,
+        "estSharesLoaned": 3133.0
+    },
+    {
+        "unique_identifier": "TIAA-CREF FUNDS_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 46874.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "TIAA-CREF FUNDS_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 1265.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "TIAA-CREF FUNDS_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "N",
+        "balance": 104946.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "TIAA-CREF LIFE FUNDS_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 1949.0,
+        "estSharesLoaned": 1929.0
+    },
+    {
+        "unique_identifier": "TIFF INVESTMENT PROGRAM_EC_Short",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": -17764.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "TRUST FOR PROFESSIONAL MANAGERS_EC_Short",
+        "filing_date": "2024-07-23",
+        "isLoanByFund": "N",
+        "balance": -17763.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "TRUST FOR PROFESSIONAL MANAGERS_EC_Long",
+        "filing_date": "2024-07-30",
+        "isLoanByFund": "N",
+        "balance": 8290.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "TRUST FOR PROFESSIONAL MANAGERS_EC_Long",
+        "filing_date": "2024-07-30",
+        "isLoanByFund": "N",
+        "balance": 39810.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "TRUST FOR PROFESSIONAL MANAGERS_EC_Long",
+        "filing_date": "2024-07-30",
+        "isLoanByFund": "N",
+        "balance": 11.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Tidal Trust II_EC_Long",
+        "filing_date": "2024-09-30",
+        "isLoanByFund": "N",
+        "balance": 11036.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Two Roads Shared Trust_EC_Long",
+        "filing_date": "2024-09-17",
+        "isLoanByFund": "N",
+        "balance": 30495.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "UNIFIED SERIES TRUST_EC_Short",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": -29142.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "UNIFIED SERIES TRUST_DBT_Long",
+        "filing_date": "2024-08-29",
+        "isLoanByFund": "N",
+        "balance": 5000000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VALIC Co I_EC_Long",
+        "filing_date": "2024-07-29",
+        "isLoanByFund": "Y",
+        "balance": 140633.0,
+        "estSharesLoaned": 63747.0
+    },
+    {
+        "unique_identifier": "VANGUARD ADMIRAL FUNDS_EC_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 51485.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD ADMIRAL FUNDS_EC_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 119487.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD ADMIRAL FUNDS_EC_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 52271.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD HORIZON FUNDS_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 3047300.0,
+        "estSharesLoaned": 58700.0
+    },
+    {
+        "unique_identifier": "VANGUARD HORIZON FUNDS_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 13589.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD INDEX FUNDS_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 3954874.0,
+        "estSharesLoaned": 163500.0
+    },
+    {
+        "unique_identifier": "VANGUARD INDEX FUNDS_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 1897297.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD INDEX FUNDS_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 1682395.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD INDEX FUNDS_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 3165948.0,
+        "estSharesLoaned": 92300.0
+    },
+    {
+        "unique_identifier": "VANGUARD INSTITUTIONAL INDEX FUNDS_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 76980.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD INTERNATIONAL EQUITY INDEX FUNDS_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 74037.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD SCOTTSDALE FUNDS_EC_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 18178.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD SCOTTSDALE FUNDS_EC_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 56445.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD SCOTTSDALE FUNDS_EC_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 8957.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD TAX-MANAGED FUNDS_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 54783.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD VALLEY FORGE FUNDS_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 81279.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD WORLD FUND_EC_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 25183.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD WORLD FUND_EC_Long",
+        "filing_date": "2024-07-26",
+        "isLoanByFund": "N",
+        "balance": 1999451.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VARIABLE INSURANCE PRODUCTS FUND_DBT_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 3092000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VARIABLE INSURANCE PRODUCTS FUND II_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 4948.0,
+        "estSharesLoaned": 4900.0
+    },
+    {
+        "unique_identifier": "VARIABLE INSURANCE PRODUCTS FUND II_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 2383.0,
+        "estSharesLoaned": 2300.0
+    },
+    {
+        "unique_identifier": "VICTORY PORTFOLIOS III_EC_Long",
+        "filing_date": "2024-09-24",
+        "isLoanByFund": "Y",
+        "balance": 15986.0,
+        "estSharesLoaned": 14936.0
+    },
+    {
+        "unique_identifier": "Variable Insurance Products Fund V_DBT_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 5455000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Virtus Diversified Income & Convertible Fund_DBT_Long",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "N",
+        "balance": 1200000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Virtus Equity & Convertible Income Fund_DBT_Long",
+        "filing_date": "2024-09-26",
+        "isLoanByFund": "N",
+        "balance": 1390000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Virtus Investment Trust_DBT_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 23015000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Virtus Strategy Trust_DBT_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 1920000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Voya VARIABLE PORTFOLIOS INC_EC_Long",
+        "filing_date": "2024-08-20",
+        "isLoanByFund": "Y",
+        "balance": 6123.0,
+        "estSharesLoaned": 2633.0
+    },
+    {
+        "unique_identifier": "Voya VARIABLE PORTFOLIOS INC_EC_Long",
+        "filing_date": "2024-08-20",
+        "isLoanByFund": "N",
+        "balance": 10990.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "WILMINGTON FUNDS_EC_Long",
+        "filing_date": "2024-09-25",
+        "isLoanByFund": "Y",
+        "balance": 1575.0,
+        "estSharesLoaned": 1575.0
+    },
+    {
+        "unique_identifier": "WILSHIRE MUTUAL FUNDS INC_EC_Long",
+        "filing_date": "2024-08-28",
+        "isLoanByFund": "Y",
+        "balance": 659.0,
+        "estSharesLoaned": 652.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-07-25",
+        "isLoanByFund": "N",
+        "balance": 63640.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "Y",
+        "balance": 91902.0,
+        "estSharesLoaned": 13297.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "Y",
+        "balance": 322577.0,
+        "estSharesLoaned": 12971.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "N",
+        "balance": 10782.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "Y",
+        "balance": 38257.0,
+        "estSharesLoaned": 30700.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "Y",
+        "balance": 55302.0,
+        "estSharesLoaned": 4714.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "Y",
+        "balance": 3914689.0,
+        "estSharesLoaned": 1911821.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "Y",
+        "balance": 33140.0,
+        "estSharesLoaned": 32167.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-08-26",
+        "isLoanByFund": "Y",
+        "balance": 224365.0,
+        "estSharesLoaned": 6307.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 135362.0,
+        "estSharesLoaned": 1884.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 412843.0,
+        "estSharesLoaned": 222518.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 19788.0,
+        "estSharesLoaned": 17588.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "N",
+        "balance": 52252.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 385806.0,
+        "estSharesLoaned": 68800.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 402569.0,
+        "estSharesLoaned": 168093.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-08-27",
+        "isLoanByFund": "Y",
+        "balance": 1887923.0,
+        "estSharesLoaned": 664743.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-09-24",
+        "isLoanByFund": "Y",
+        "balance": 214800.0,
+        "estSharesLoaned": 109441.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-09-24",
+        "isLoanByFund": "Y",
+        "balance": 4718.0,
+        "estSharesLoaned": 4670.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-09-24",
+        "isLoanByFund": "Y",
+        "balance": 5806.0,
+        "estSharesLoaned": 79.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "Y",
+        "balance": 14248.0,
+        "estSharesLoaned": 6677.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 10639.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_DBT_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 4676000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_DBT_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 14075000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_DBT_Long",
+        "filing_date": "2024-09-27",
+        "isLoanByFund": "N",
+        "balance": 5700000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ADVANCED SERIES TRUST_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 3791.0,
+        "estSharesLoaned": 3600.0
+    },
+    {
+        "unique_identifier": "ADVANCED SERIES TRUST_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 27513.0,
+        "estSharesLoaned": 13900.0
+    },
+    {
+        "unique_identifier": "ADVANCED SERIES TRUST_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 55991.0,
+        "estSharesLoaned": 23000.0
+    },
+    {
+        "unique_identifier": "AGF Investments Trust_EC_Short",
+        "filing_date": "2024-11-22",
+        "isLoanByFund": "N",
+        "balance": -145046.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AIM GROWTH SERIES (INVESCO GROWTH SERIES)_DBT_Long",
+        "filing_date": "2024-11-29",
+        "isLoanByFund": "N",
+        "balance": 4000000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ALLIANZ VARIABLE INSURANCE PRODUCTS TRUST_DBT_Long",
+        "filing_date": "2024-11-29",
+        "isLoanByFund": "N",
+        "balance": 60000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ALLIANZ VARIABLE INSURANCE PRODUCTS TRUST_EC_Long",
+        "filing_date": "2024-11-29",
+        "isLoanByFund": "N",
+        "balance": 3276.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ALLIANZ VARIABLE INSURANCE PRODUCTS TRUST_EC_Long",
+        "filing_date": "2024-11-29",
+        "isLoanByFund": "N",
+        "balance": 42159.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ALLIANZ VARIABLE INSURANCE PRODUCTS TRUST_EC_Long",
+        "filing_date": "2024-11-29",
+        "isLoanByFund": "N",
+        "balance": 1807.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ALLIANZ VARIABLE INSURANCE PRODUCTS TRUST_DBT_Long",
+        "filing_date": "2024-11-29",
+        "isLoanByFund": "N",
+        "balance": 336000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ALPS ETF Trust_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "Y",
+        "balance": 284975.0,
+        "estSharesLoaned": 256477.0
+    },
+    {
+        "unique_identifier": "AMERICAN CENTURY ETF TRUST_EC_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "N",
+        "balance": 83.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AMERICAN FUNDS INSURANCE SERIES_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 418381.0,
+        "estSharesLoaned": 106732.0
+    },
+    {
+        "unique_identifier": "AMERICAN FUNDS INSURANCE SERIES_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 12732.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AMERICAN FUNDS INSURANCE SERIES_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 1555078.0,
+        "estSharesLoaned": 11544.0
+    },
+    {
+        "unique_identifier": "AMERICAN FUNDS INSURANCE SERIES_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 102210.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AQR Funds_EC_Short",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": -607275.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AQR Funds_EC_Short",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": -914190.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AQR Funds_EC_Short",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": -154300.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AQR Funds_EC_Short",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": -62685.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AQR Funds_EC_Short",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": -352712.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AQR Funds_EC_Short",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": -67308.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AQR Funds_EC_Short",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": -365628.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AQR Funds_EC_Short",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": -8855.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ARTISAN PARTNERS FUNDS INC_EC_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 2411403.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "AUGUSTAR VARIABLE INSURANCE PRODUCTS FUND INC_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 772.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "BANCROFT FUND LTD_DBT_Long",
+        "filing_date": "2024-11-29",
+        "isLoanByFund": "N",
+        "balance": 3125000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "BNY MELLON FUNDS TRUST_EC_Long",
+        "filing_date": "2024-10-24",
+        "isLoanByFund": "Y",
+        "balance": 8060.0,
+        "estSharesLoaned": 8699.0
+    },
+    {
+        "unique_identifier": "BNY MELLON INVESTMENT PORTFOLIOS_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 54637.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "BNY MELLON INVESTMENT PORTFOLIOS_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 508.0,
+        "estSharesLoaned": 526.0
+    },
+    {
+        "unique_identifier": "BNY Mellon Investment Funds IV, Inc._DBT_Long",
+        "filing_date": "2024-10-24",
+        "isLoanByFund": "N",
+        "balance": 850000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Blackstone Alternative Investment Funds_EC_Long",
+        "filing_date": "2024-11-21",
+        "isLoanByFund": "N",
+        "balance": 29100.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Bridge Builder Trust_EC_Long",
+        "filing_date": "2024-11-22",
+        "isLoanByFund": "N",
+        "balance": 5931.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Bridge Builder Trust_EC_Long",
+        "filing_date": "2024-11-22",
+        "isLoanByFund": "N",
+        "balance": 3590.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Brinker Capital Destinations Trust_EC_Long",
+        "filing_date": "2024-10-25",
+        "isLoanByFund": "N",
+        "balance": 1019.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CALVERT IMPACT FUND INC_EC_Long",
+        "filing_date": "2024-11-19",
+        "isLoanByFund": "N",
+        "balance": 70074.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "CAPITAL WORLD GROWTH & INCOME FUND_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 766688.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "COLLEGE RETIREMENT EQUITIES FUND_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 62345.0,
+        "estSharesLoaned": 43021.0
+    },
+    {
+        "unique_identifier": "COLLEGE RETIREMENT EQUITIES FUND_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 84747.0,
+        "estSharesLoaned": 83899.0
+    },
+    {
+        "unique_identifier": "COLUMBIA FUNDS SERIES TRUST_EC_Long",
+        "filing_date": "2024-10-25",
+        "isLoanByFund": "N",
+        "balance": 117057.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "DBX ETF TRUST_EC_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "N",
+        "balance": 371.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "DELAWARE GROUP EQUITY FUNDS V_DBT_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "N",
+        "balance": 670000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "DELAWARE VIP TRUST_DBT_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 29000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ELLSWORTH GROWTH & INCOME FUND LTD_DBT_Long",
+        "filing_date": "2024-11-29",
+        "isLoanByFund": "N",
+        "balance": 1900000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EMPOWER FUNDS, INC._DBT_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 1716000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EMPOWER FUNDS, INC._EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 111402.0,
+        "estSharesLoaned": 115744.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_DBT_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 324000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_DBT_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 130000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_DBT_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 100000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_EC_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "Y",
+        "balance": 76030.0,
+        "estSharesLoaned": 71395.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_EC_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 10208.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_EC_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "Y",
+        "balance": 24367.0,
+        "estSharesLoaned": 22793.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_EC_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 4319.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_EC_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "Y",
+        "balance": 25574.0,
+        "estSharesLoaned": 19832.0
+    },
+    {
+        "unique_identifier": "EQ ADVISORS TRUST_EC_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "Y",
+        "balance": 12511.0,
+        "estSharesLoaned": 11816.0
+    },
+    {
+        "unique_identifier": "FIDELITY ADVISOR SERIES II_DBT_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 51247000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY CONCORD STREET TRUST_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "Y",
+        "balance": 759660.0,
+        "estSharesLoaned": 751983.0
+    },
+    {
+        "unique_identifier": "FIDELITY CONCORD STREET TRUST_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "Y",
+        "balance": 169273.0,
+        "estSharesLoaned": 169200.0
+    },
+    {
+        "unique_identifier": "FIDELITY CONCORD STREET TRUST_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "Y",
+        "balance": 226731.0,
+        "estSharesLoaned": 226300.0
+    },
+    {
+        "unique_identifier": "FIDELITY COVINGTON TRUST_DBT_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 110000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY FINANCIAL TRUST_DBT_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 31275000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY FINANCIAL TRUST_DBT_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 2078000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY INCOME FUND /MA/_DBT_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 1381000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY INCOME FUND /MA/_DBT_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 9366000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY MT VERNON STREET TRUST_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "Y",
+        "balance": 360805.0,
+        "estSharesLoaned": 359700.0
+    },
+    {
+        "unique_identifier": "FIDELITY MT VERNON STREET TRUST_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "Y",
+        "balance": 67029.0,
+        "estSharesLoaned": 67000.0
+    },
+    {
+        "unique_identifier": "FIDELITY MT VERNON STREET TRUST_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "Y",
+        "balance": 133129.0,
+        "estSharesLoaned": 133100.0
+    },
+    {
+        "unique_identifier": "FIDELITY SALEM STREET TRUST_DBT_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 28000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SALEM STREET TRUST_DBT_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 12306000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SALEM STREET TRUST_DBT_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 809000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SALEM STREET TRUST_DBT_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 5079000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SALEM STREET TRUST_DBT_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 14000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SALEM STREET TRUST_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 12739.0,
+        "estSharesLoaned": 12599.0
+    },
+    {
+        "unique_identifier": "FIDELITY SCHOOL STREET TRUST_DBT_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 13970000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIDELITY SELECT PORTFOLIOS_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "Y",
+        "balance": 55350.0,
+        "estSharesLoaned": 55300.0
+    },
+    {
+        "unique_identifier": "FIDELITY SELECT PORTFOLIOS_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "Y",
+        "balance": 418400.0,
+        "estSharesLoaned": 418310.0
+    },
+    {
+        "unique_identifier": "FIDELITY SUMMER STREET TRUST_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 9986.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIRST TRUST EXCHANGE-TRADED FUND_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 440585.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIRST TRUST EXCHANGE-TRADED FUND II_EC_Long",
+        "filing_date": "2024-11-21",
+        "isLoanByFund": "N",
+        "balance": 7519.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIRSTHAND FUNDS_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 10000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FIRSTHAND FUNDS_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 170000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "FRANK FUNDS_EC_Long",
+        "filing_date": "2024-11-22",
+        "isLoanByFund": "N",
+        "balance": 20000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Fidelity Central Investment Portfolios LLC_DBT_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 2949000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Fidelity Merrimack Street Trust_DBT_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 7000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Fidelity Merrimack Street Trust_DBT_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 15000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Fidelity Merrimack Street Trust_DBT_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 3035000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Fidelity Multi-Strategy Credit Fund_DBT_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 113000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Fidelity Multi-Strategy Credit Fund_DBT_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 28000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Fidelity Rutland Square Trust II_DBT_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 753000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Fidelity Rutland Square Trust II_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 4300.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Franklin BSP Private Credit Fund_DBT_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 1000000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "GABELLI CONVERTIBLE & INCOME SECURITIES FUND INC_DBT_Long",
+        "filing_date": "2024-11-29",
+        "isLoanByFund": "N",
+        "balance": 2100000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "GROWTH FUND OF AMERICA_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "Y",
+        "balance": 7158990.0,
+        "estSharesLoaned": 54512.0
+    },
+    {
+        "unique_identifier": "Goldman Sachs ETF Trust_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 2556.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Goldman Sachs ETF Trust_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 654.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "GuideStone Funds_DBT_Long",
+        "filing_date": "2024-11-22",
+        "isLoanByFund": "N",
+        "balance": 2273000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "GuideStone Funds_DE_",
+        "filing_date": "2024-11-22",
+        "isLoanByFund": "N",
+        "balance": -34132.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "GuideStone Funds_EC_Long",
+        "filing_date": "2024-11-22",
+        "isLoanByFund": "Y",
+        "balance": 737.0,
+        "estSharesLoaned": 737.0
+    },
+    {
+        "unique_identifier": "HC CAPITAL TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 934.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "HUSSMAN INVESTMENT TRUST_EC_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 100000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "HUSSMAN INVESTMENT TRUST_EC_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 5000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Invesco Exchange-Traded Fund Trust II_EC_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "Y",
+        "balance": 56480.0,
+        "estSharesLoaned": 60453.0
+    },
+    {
+        "unique_identifier": "Invesco Exchange-Traded Fund Trust II_EC_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "Y",
+        "balance": 15578.0,
+        "estSharesLoaned": 14963.0
+    },
+    {
+        "unique_identifier": "Invesco Exchange-Traded Fund Trust II_EC_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "Y",
+        "balance": 12106.0,
+        "estSharesLoaned": 12651.0
+    },
+    {
+        "unique_identifier": "Investment Managers Series Trust II_EC_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 5552.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "J.P. Morgan Exchange-Traded Fund Trust_EC_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "Y",
+        "balance": 25831.0,
+        "estSharesLoaned": 25867.0
+    },
+    {
+        "unique_identifier": "JNL SERIES TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 241750.0,
+        "estSharesLoaned": 217575.0
+    },
+    {
+        "unique_identifier": "JNL SERIES TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 2728.0,
+        "estSharesLoaned": 2728.0
+    },
+    {
+        "unique_identifier": "JNL SERIES TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 7952.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JNL SERIES TRUST_DBT_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 412000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JNL SERIES TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 419757.0,
+        "estSharesLoaned": 345281.0
+    },
+    {
+        "unique_identifier": "JNL SERIES TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 13353.0,
+        "estSharesLoaned": 13353.0
+    },
+    {
+        "unique_identifier": "JNL SERIES TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 14039.0,
+        "estSharesLoaned": 14039.0
+    },
+    {
+        "unique_identifier": "JOHN HANCOCK INVESTMENT TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 28774.0,
+        "estSharesLoaned": 27028.0
+    },
+    {
+        "unique_identifier": "JOHN HANCOCK VARIABLE INSURANCE TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 189354.0,
+        "estSharesLoaned": 22502.0
+    },
+    {
+        "unique_identifier": "JOHN HANCOCK VARIABLE INSURANCE TRUST_DBT_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 978000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JOHN HANCOCK VARIABLE INSURANCE TRUST_DBT_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 3436000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JOHN HANCOCK VARIABLE INSURANCE TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 2162.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JPMorgan Trust I_DBT_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "N",
+        "balance": 375000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JPMorgan Trust I_DBT_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "N",
+        "balance": 1485000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JPMorgan Trust I_DBT_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "N",
+        "balance": 275000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "JPMorgan Trust I_DBT_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "N",
+        "balance": 449000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "John Hancock Funds II_DBT_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 8093000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "John Hancock Funds II_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "Y",
+        "balance": 298437.0,
+        "estSharesLoaned": 121534.0
+    },
+    {
+        "unique_identifier": "John Hancock Funds II_DBT_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 2313000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LEGG MASON PARTNERS INVESTMENT TRUST_EC_Long",
+        "filing_date": "2024-10-23",
+        "isLoanByFund": "N",
+        "balance": 964374.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LINCOLN VARIABLE INSURANCE PRODUCTS TRUST_EC_Long",
+        "filing_date": "2024-11-18",
+        "isLoanByFund": "N",
+        "balance": 43726.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LINCOLN VARIABLE INSURANCE PRODUCTS TRUST_EC_Long",
+        "filing_date": "2024-11-18",
+        "isLoanByFund": "N",
+        "balance": 1568.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LITMAN GREGORY FUNDS TRUST_DBT_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 95000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LITMAN GREGORY FUNDS TRUST_DBT_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 35000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LOOMIS SAYLES FUNDS I_DBT_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 1325000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LOOMIS SAYLES FUNDS I_DBT_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 110000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LOOMIS SAYLES FUNDS I_DBT_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 955000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LOOMIS SAYLES FUNDS I_DBT_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 65000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LOOMIS SAYLES FUNDS II_DBT_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 175000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LOOMIS SAYLES FUNDS II_DBT_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 20000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LOOMIS SAYLES FUNDS II_DBT_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 2350000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "LOOMIS SAYLES FUNDS II_DBT_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 1215000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "M FUND INC_EC_Long",
+        "filing_date": "2024-11-19",
+        "isLoanByFund": "Y",
+        "balance": 117147.0,
+        "estSharesLoaned": 100191.0
+    },
+    {
+        "unique_identifier": "MASSMUTUAL SELECT FUNDS_EC_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "Y",
+        "balance": 50837.0,
+        "estSharesLoaned": 50175.0
+    },
+    {
+        "unique_identifier": "MASSMUTUAL SELECT FUNDS_DBT_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 191000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "MASSMUTUAL SELECT FUNDS_DBT_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 980000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "MASTER INVESTMENT PORTFOLIO_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 80018.0,
+        "estSharesLoaned": 80018.0
+    },
+    {
+        "unique_identifier": "MASTER INVESTMENT PORTFOLIO_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 6724.0,
+        "estSharesLoaned": 6724.0
+    },
+    {
+        "unique_identifier": "MORGAN STANLEY PATHWAY FUNDS_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 38542.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "MORGAN STANLEY PATHWAY FUNDS_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 3902.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "MoA Funds Corp_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 18928.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "NEUBERGER BERMAN EQUITY FUNDS_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 666033.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "NEW COVENANT FUNDS_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 248.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "NEW ECONOMY FUND_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "Y",
+        "balance": 1737865.0,
+        "estSharesLoaned": 16353.0
+    },
+    {
+        "unique_identifier": "NEW PERSPECTIVE FUND_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 2255516.0,
+        "estSharesLoaned": 1023773.0
+    },
+    {
+        "unique_identifier": "NORTHWESTERN MUTUAL SERIES FUND INC_EC_Long",
+        "filing_date": "2024-11-22",
+        "isLoanByFund": "N",
+        "balance": 44657.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Northern Lights Fund Trust IV_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 15807.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Nuveen S&P 500 Dynamic Overwrite Fund_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 2647.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PACIFIC SELECT FUND_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 4086.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PACIFIC SELECT FUND_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 5650.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PIMCO Equity Series_EC_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 443.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PRAXIS MUTUAL FUNDS_EC_Long",
+        "filing_date": "2024-11-29",
+        "isLoanByFund": "N",
+        "balance": 19930.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PROSHARES TRUST_EC_Long",
+        "filing_date": "2024-10-25",
+        "isLoanByFund": "Y",
+        "balance": 837.0,
+        "estSharesLoaned": 820.0
+    },
+    {
+        "unique_identifier": "PROSHARES TRUST_EC_Long",
+        "filing_date": "2024-10-25",
+        "isLoanByFund": "N",
+        "balance": 14805.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PROSHARES TRUST_EC_Long",
+        "filing_date": "2024-10-25",
+        "isLoanByFund": "N",
+        "balance": 4929.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PRUDENTIAL SERIES FUND_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 119050.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PUTNAM DIVERSIFIED INCOME TRUST_DBT_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 434000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PUTNAM HIGH YIELD FUND_DBT_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "N",
+        "balance": 78000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PUTNAM MASTER INTERMEDIATE INCOME TRUST_DBT_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 82000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "PUTNAM VARIABLE TRUST_DBT_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 55000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ProFunds_EC_Long",
+        "filing_date": "2024-10-31",
+        "isLoanByFund": "N",
+        "balance": 1490.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ProFunds_EC_Long",
+        "filing_date": "2024-10-31",
+        "isLoanByFund": "N",
+        "balance": 1711.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ProFunds_EC_Long",
+        "filing_date": "2024-12-11",
+        "isLoanByFund": "N",
+        "balance": 280.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "ProFunds_EC_Long",
+        "filing_date": "2024-12-11",
+        "isLoanByFund": "N",
+        "balance": 424.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "RBB FUND, INC._EC_Long",
+        "filing_date": "2024-10-30",
+        "isLoanByFund": "Y",
+        "balance": 45794.0,
+        "estSharesLoaned": 40746.0
+    },
+    {
+        "unique_identifier": "RUSSELL INVESTMENT FUNDS_EC_Short",
+        "filing_date": "2024-11-20",
+        "isLoanByFund": "N",
+        "balance": -45698.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "RUSSELL INVESTMENT FUNDS_EC_Short",
+        "filing_date": "2024-11-20",
+        "isLoanByFund": "N",
+        "balance": -4944.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "RYDEX SERIES FUNDS_EC_Long",
+        "filing_date": "2024-11-29",
+        "isLoanByFund": "N",
+        "balance": 47111.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "RYDEX VARIABLE TRUST_EC_Long",
+        "filing_date": "2024-11-29",
+        "isLoanByFund": "N",
+        "balance": 11680.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SA FUNDS INVESTMENT TRUST_EC_Long",
+        "filing_date": "2024-11-15",
+        "isLoanByFund": "Y",
+        "balance": 7157.0,
+        "estSharesLoaned": 7450.0
+    },
+    {
+        "unique_identifier": "SCHWAB STRATEGIC TRUST_EC_Long",
+        "filing_date": "2024-10-24",
+        "isLoanByFund": "N",
+        "balance": 338266.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SCHWAB STRATEGIC TRUST_EC_Long",
+        "filing_date": "2024-10-24",
+        "isLoanByFund": "N",
+        "balance": 112173.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SCHWAB STRATEGIC TRUST_EC_Long",
+        "filing_date": "2024-10-24",
+        "isLoanByFund": "N",
+        "balance": 9215.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SCHWAB STRATEGIC TRUST_EC_Long",
+        "filing_date": "2024-10-24",
+        "isLoanByFund": "N",
+        "balance": 797.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SCHWAB STRATEGIC TRUST_EC_Long",
+        "filing_date": "2024-10-24",
+        "isLoanByFund": "N",
+        "balance": 61797.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SCHWAB STRATEGIC TRUST_EC_Long",
+        "filing_date": "2024-10-24",
+        "isLoanByFund": "N",
+        "balance": 75508.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SCHWAB STRATEGIC TRUST_EC_Long",
+        "filing_date": "2024-10-24",
+        "isLoanByFund": "N",
+        "balance": 109350.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SEASONS SERIES TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 4945.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SEASONS SERIES TRUST_DBT_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 384000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SEASONS SERIES TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 21531.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SEASONS SERIES TRUST_DBT_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 109000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SEI Catholic Values Trust_EC_Long",
+        "filing_date": "2024-10-30",
+        "isLoanByFund": "N",
+        "balance": 341.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SEI INSTITUTIONAL INVESTMENTS TRUST_EC_Long",
+        "filing_date": "2024-10-30",
+        "isLoanByFund": "N",
+        "balance": 5000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SEI INSTITUTIONAL INVESTMENTS TRUST_EC_Long",
+        "filing_date": "2024-10-30",
+        "isLoanByFund": "N",
+        "balance": 19923.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SEI INSTITUTIONAL MANAGED TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 2930.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SHELTON FUNDS_EC_Long",
+        "filing_date": "2024-10-30",
+        "isLoanByFund": "N",
+        "balance": 5129.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SMALLCAP WORLD FUND INC_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 2996775.0,
+        "estSharesLoaned": 2693387.0
+    },
+    {
+        "unique_identifier": "SPDR INDEX SHARES FUNDS_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 376.0,
+        "estSharesLoaned": 53.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 1090734.0,
+        "estSharesLoaned": 595131.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_DBT_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 7410000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_DBT_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 27887000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_DBT_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 9512000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 254.0,
+        "estSharesLoaned": 6.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 389900.0,
+        "estSharesLoaned": 352171.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 19134.0,
+        "estSharesLoaned": 16996.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 12.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 2730582.0,
+        "estSharesLoaned": 1954971.0
+    },
+    {
+        "unique_identifier": "SPDR SERIES TRUST_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 314879.0,
+        "estSharesLoaned": 283748.0
+    },
+    {
+        "unique_identifier": "STATE STREET INSTITUTIONAL INVESTMENT TRUST_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 47201.0,
+        "estSharesLoaned": 42580.0
+    },
+    {
+        "unique_identifier": "STATE STREET VARIABLE INSURANCE SERIES FUNDS INC_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 779.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "T. Rowe Price Index Trust, Inc._EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 23972.0,
+        "estSharesLoaned": 23732.0
+    },
+    {
+        "unique_identifier": "T. Rowe Price Index Trust, Inc._EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 5837.0,
+        "estSharesLoaned": 5358.0
+    },
+    {
+        "unique_identifier": "T. Rowe Price International Funds, Inc._DBT_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 981000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "T. Rowe Price International Funds, Inc._DBT_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 19595000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "T. Rowe Price Mid-Cap Value Fund, Inc._EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 4564815.0,
+        "estSharesLoaned": 4293839.0
+    },
+    {
+        "unique_identifier": "T. Rowe Price Mid-Cap Value Fund, Inc._DBT_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 22052000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "T. Rowe Price Mid-Cap Value Fund, Inc._DBT_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 90212000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "THRIVENT SERIES FUND INC_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 98832.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "TIAA SEPARATE ACCOUNT VA 1_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 3166.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "TIAA-CREF LIFE FUNDS_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 1949.0,
+        "estSharesLoaned": 1929.0
+    },
+    {
+        "unique_identifier": "TIFF INVESTMENT PROGRAM_EC_Short",
+        "filing_date": "2024-11-29",
+        "isLoanByFund": "N",
+        "balance": -61440.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "TRUST FOR PROFESSIONAL MANAGERS_EC_Long",
+        "filing_date": "2024-10-15",
+        "isLoanByFund": "N",
+        "balance": 107574.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "TRUST FOR PROFESSIONAL MANAGERS_EC_Long",
+        "filing_date": "2024-10-15",
+        "isLoanByFund": "N",
+        "balance": 11.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "TRUST FOR PROFESSIONAL MANAGERS_EC_Long",
+        "filing_date": "2024-10-15",
+        "isLoanByFund": "N",
+        "balance": 21536.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "TRUST FOR PROFESSIONAL MANAGERS_EC_Short",
+        "filing_date": "2024-10-16",
+        "isLoanByFund": "N",
+        "balance": -38754.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Total Fund Solution_EC_Short",
+        "filing_date": "2024-11-22",
+        "isLoanByFund": "N",
+        "balance": -18748.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "UNIFIED SERIES TRUST_EC_Short",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": -24338.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "UNIFIED SERIES TRUST_DBT_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 3000000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VALIC Co I_EC_Long",
+        "filing_date": "2024-10-29",
+        "isLoanByFund": "Y",
+        "balance": 131755.0,
+        "estSharesLoaned": 141808.0
+    },
+    {
+        "unique_identifier": "VANGUARD ADMIRAL FUNDS_EC_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "N",
+        "balance": 121038.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD ADMIRAL FUNDS_EC_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "N",
+        "balance": 50609.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD ADMIRAL FUNDS_EC_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "N",
+        "balance": 49874.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD HORIZON FUNDS_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 3131600.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD INDEX FUNDS_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 1654406.0,
+        "estSharesLoaned": 165100.0
+    },
+    {
+        "unique_identifier": "VANGUARD INDEX FUNDS_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 1927901.0,
+        "estSharesLoaned": 146100.0
+    },
+    {
+        "unique_identifier": "VANGUARD INDEX FUNDS_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 3956522.0,
+        "estSharesLoaned": 949300.0
+    },
+    {
+        "unique_identifier": "VANGUARD INDEX FUNDS_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 3180316.0,
+        "estSharesLoaned": 452100.0
+    },
+    {
+        "unique_identifier": "VANGUARD INSTITUTIONAL INDEX FUNDS_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 72176.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD QUANTITATIVE FUNDS_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 61500.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD SCOTTSDALE FUNDS_EC_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "N",
+        "balance": 53889.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD SCOTTSDALE FUNDS_EC_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "N",
+        "balance": 8960.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD SCOTTSDALE FUNDS_EC_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "N",
+        "balance": 17983.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD TAX-MANAGED FUNDS_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 905883.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD VALLEY FORGE FUNDS_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "N",
+        "balance": 81279.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD WORLD FUND_EC_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "N",
+        "balance": 25929.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VANGUARD WORLD FUND_EC_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "N",
+        "balance": 2136759.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VARIABLE INSURANCE PRODUCTS FUND_DBT_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 3092000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "VARIABLE INSURANCE PRODUCTS FUND II_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 5413.0,
+        "estSharesLoaned": 5100.0
+    },
+    {
+        "unique_identifier": "VARIABLE INSURANCE PRODUCTS FUND II_EC_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "Y",
+        "balance": 2481.0,
+        "estSharesLoaned": 2300.0
+    },
+    {
+        "unique_identifier": "VIRTUS ALTERNATIVE SOLUTIONS TRUST_EC_Long",
+        "filing_date": "2024-11-22",
+        "isLoanByFund": "N",
+        "balance": 1510.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Variable Insurance Products Fund V_DBT_Long",
+        "filing_date": "2024-11-25",
+        "isLoanByFund": "N",
+        "balance": 5455000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Virtus Investment Trust_DBT_Long",
+        "filing_date": "2024-11-22",
+        "isLoanByFund": "N",
+        "balance": 23015000.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "Voya VARIABLE PORTFOLIOS INC_EC_Long",
+        "filing_date": "2024-11-21",
+        "isLoanByFund": "Y",
+        "balance": 10922.0,
+        "estSharesLoaned": 10812.0
+    },
+    {
+        "unique_identifier": "Voya VARIABLE PORTFOLIOS INC_EC_Long",
+        "filing_date": "2024-11-21",
+        "isLoanByFund": "Y",
+        "balance": 5246.0,
+        "estSharesLoaned": 5193.0
+    },
+    {
+        "unique_identifier": "WILSHIRE MUTUAL FUNDS INC_EC_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "N",
+        "balance": 659.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-10-28",
+        "isLoanByFund": "N",
+        "balance": 66902.0,
+        "estSharesLoaned": 0.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 297549.0,
+        "estSharesLoaned": 294521.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 87690.0,
+        "estSharesLoaned": 86722.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 55094.0,
+        "estSharesLoaned": 53766.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 392255.0,
+        "estSharesLoaned": 379478.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 569841.0,
+        "estSharesLoaned": 256336.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 20134.0,
+        "estSharesLoaned": 19736.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-11-26",
+        "isLoanByFund": "Y",
+        "balance": 138890.0,
+        "estSharesLoaned": 137310.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "Y",
+        "balance": 188536.0,
+        "estSharesLoaned": 29426.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "Y",
+        "balance": 7999361.0,
+        "estSharesLoaned": 3589068.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "Y",
+        "balance": 32816.0,
+        "estSharesLoaned": 32487.0
+    },
+    {
+        "unique_identifier": "iSHARES TRUST_EC_Long",
+        "filing_date": "2024-11-27",
+        "isLoanByFund": "Y",
+        "balance": 711503.0,
+        "estSharesLoaned": 26594.0
+    }
+]

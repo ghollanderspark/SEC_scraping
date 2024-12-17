@@ -27,8 +27,8 @@ def log_skipped_file(file_url, reason, size_mb=None):
         writer.writerow({"File URL": file_url, "Reason": reason, "Size (MB)": size_mb})
 
 # Define input/output paths and CUSIP prefixes
-input_csv = "NPORT_filtered_form_index.csv"  # Input CSV
-output_csv = "NPORT_filtered_positions.csv"  # Output CSV
+input_csv = "matched_loaning_companies.csv"  # Input CSV
+output_csv = "NPORT_filtered_positions_loaned.csv"  # Output CSV
 base_url = "https://www.sec.gov/Archives/"  # Base URL
 target_cusip_prefixes = {"225447", "977852"}  # Target prefixes
 
@@ -47,7 +47,7 @@ nport_headers = [
     "descRefInstrmnt_issuerName", "descRefInstrmnt_issueTitle",
     "descRefInstrmnt_otherDesc", "descRefInstrmnt_otherValue", "shareNo",
     "exercisePrice", "exercisePriceCurCd", "expDt", "delta", "unrealizedAppr",
-    "isCashCollateral", "isNonCashCollateral", "isLoanByFund"
+    "isCashCollateral", "isNonCashCollateral", "isLoanByFund", "estSharesLoaned"
 ]
 
 # Incremental parsing using lxml
@@ -69,6 +69,7 @@ def extract_nport_positions(file_stream, company_name, filing_date):
     ISSUER_CONDITIONAL_TAG = f"{{{NAMESPACE}}}issuerConditional"
     DERIVATIVE_INFO_TAG = f"{{{NAMESPACE}}}derivativeInfo"
     SECURITY_LENDING_TAG = f"{{{NAMESPACE}}}securityLending"
+    LOAN_CONDITION_TAG = f"{{{NAMESPACE}}}loanByFundCondition"
 
     positions = []
     try:
@@ -145,6 +146,21 @@ def extract_nport_positions(file_stream, company_name, filing_date):
                             f"{{{NAMESPACE}}}isNonCashCollateral", "N/A").strip()
                         position["isLoanByFund"] = security_lending.findtext(
                             f"{{{NAMESPACE}}}isLoanByFund", "N/A").strip()
+
+                    # Extract loanByFundCondition
+                    loan_condition = security_lending.find(LOAN_CONDITION_TAG)
+                    print(loan_condition)
+                    if loan_condition is not None and loan_condition.get("isLoanByFund") == "Y":
+                        print("found loan condition and Y")
+                        position["isLoanByFund"] = "Y"
+                        loan_val = float(loan_condition.get("loanVal", 0))
+                        valUSD = float(position["valUSD"]) if position["valUSD"] != "N/A" else 1
+                        balance = float(position["balance"]) if position["balance"] != "N/A" else 0
+
+                        # Calculate estSharesLoaned
+                        position["estSharesLoaned"] = int((loan_val / valUSD) * balance)
+                    else:
+                        position["estSharesLoaned"] = 0  # Default if no loan condition
 
                     positions.append(position)
 
